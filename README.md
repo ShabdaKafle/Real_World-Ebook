@@ -2,6 +2,7 @@
 
 ## Language used
 * HTML/CSS
+* Javascript/Jquery
 * Bootstrap
 * Python(django)
 * MySQL
